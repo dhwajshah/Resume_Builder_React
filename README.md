@@ -14,15 +14,3 @@ Steps to run :
 Replace your mongodb server url in backend folder.
 Now You will see the project in runnable state.
 
-## Screenshots  
-
-<p float="left">
- <img src="public/images/screenshots/login.jpg" width="200" />
- <img src="public/images/screenshots/register.jpg" width="200" />
- <img src="public/images/screenshots/home.jpg" width="200" />
- <img src="public/images/screenshots/about.jpg" width="200" />
- <img src="public/images/screenshots/contact.jpg" width="200" />
- <img src="public/images/screenshots/feedback.jpg" width="200" />
- <img src="public/images/screenshots/preview.jpg" width="200" />
- <img src="public/images/screenshots/sample_resume.jpg" width="200" />
-</p>
