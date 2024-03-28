@@ -17,5 +17,5 @@ Now You will see the project in runnable state.
 ## Screenshots  
 
 <p float="left">
-  <img src="1.0.Jpg" width="200" />
+  <img src="public/images/screenshots/home.jpg" width="200" />
 </p>
