@@ -1,35 +1,16 @@
-## Resume Builder | React
+Steps to run :
+ 1) Download MongoDBCompass for database implementation.
+ 2) Download this repository and unzip it.
+ 3) Now open this reporsitory's files in a IDE Like VS Code.
+ 4) Now open vs code's terminal
+ 5) In first write command to navigate in backend folder "cd backend".
+ 6) After that run following command "npm install" in backend folder.
+ 7) After successful run of above command run server using "nodemon" command.
+ 8) In first write command to navigate in backend folder "cd Resume-Builder".
+ 9) After that run following command "npm install" in Resume-Builder folder.
+ 10) After successful run of above command run project using "npm start" command.
 
-### About
 
-Resume-Builder is single page web application created in React Library.
+Replace your mongodb server url in backend folder.
+Now You will see the project in runnable state.
 
-### Resume 1.0 (using jspdf)
-
-<img src="https://github.com/Yagnik-Gohil/Resume-Builder/blob/master/public/images/1.0.JPG?raw=true" width="250"/>
-
-### Resume 2.0 (using html-pdf)
-
-<img src="https://github.com/Yagnik-Gohil/Resume-Builder/blob/master/public/images/2.0.JPG?raw=true" width="250"/>
-
-### Technologies
-
-- [React](https://reactjs.org/) with Hooks
-- [React-Bootstrap](https://react-bootstrap.github.io/)
-- [React-Redux](https://react-redux.js.org/)
-
-### Icons
-- [React-Icons](https://react-icons.github.io/react-icons)
-
-Feel free to use the source to create your resume.<br/>
-Basic knowledge of HTML5, CSS and React is sufficient if you want to customize the resume for your requirements.
-
-### How to use
-
-Clone this repository
-
-Run `npm install` in `/resume-builder` and in `/resume-builder/backend` to install dependency.
-
-Run `npm start` in `/resume-builder` and in `/resume-builder/backend` to run your local copy in browser.
-
-![](https://visitor-badge.glitch.me/badge?page_id=Yagnik-Gohil.Resume-Builder)
